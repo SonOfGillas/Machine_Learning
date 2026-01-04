@@ -29,3 +29,16 @@ List of the scheduled labs
 - Lab-topic-7-association-rules
 
 
+##### SET UP Ambiente
+- apri anaconda powershell prompt
+- conda create --name MLDL2526
+- conda activate MLDL2526
+- conda install numpy
+- conda install pandas
+- conda install matplotlib
+- conda install seaborn
+- conda install anaconda::scikit-learn
+- conda install jinja2
+- conda install scipy
+- conda install mlxtend
+- conda install openpyxl
